@@ -69,5 +69,9 @@ public class Driver {
             driver = null;
         }
     }
+
+    public static Driver getDriver() {
+        return null;
+    }
 }
 
